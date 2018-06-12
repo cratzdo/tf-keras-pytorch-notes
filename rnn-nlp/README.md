@@ -1,3 +1,8 @@
-A figures
+# Notes Tensorflow, keras and pytorch
 
-![lstm](./LSTM3-chain.png)
+Contents covered are
+
+- CNN 
+- RNN
+- DNN for regression and classification
+
