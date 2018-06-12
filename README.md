@@ -1,4 +1,4 @@
-# Notes for Tensorflow, keras and pytorch
+# Notes for Tensorflow, `keras` and `pytorch`
 
 Contents covered are
 
